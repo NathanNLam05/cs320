@@ -1,1 +1,1 @@
-# cs320
+Repository for git setup, Nathan Lam
